@@ -1,33 +1,20 @@
-# AmazingChatGPTPrompts
-
+# Amazing ChatGPT Prompts 
 ### Test Automation Framework
-ChatGPT can certainly help you create a desired framework in a desired language and tech stack!
-I used following prompt to generate a basic framework and worked my way to integrate other tools.
 
-`prompt: create a boiler plate selenium webdriver 4 testing framework with testng, java, maven that can 
-also handle parallel execution and print an Extent report. Add api testing with rest assured to 
-this framework and add an example test for both UI and API`
+ChatGPT can help you create the desired test automation framework using the language and technology stack of your choice. I used the following prompt to generate a basic framework and then integrated other tools as needed:
 
-#### Follow-up Prompts
-You will need to tweak the follow up prompts to request whatever integtration you are missing or required.
+Prompt: `Create a boilerplate Selenium WebDriver 4 testing framework using TestNG, Java, and Maven that can handle parallel execution and generate an Extent report. Add API testing with Rest Assured and include an example test for both UI and API.`
 
-Since it didn't provide a testng.xml or a pom.xml I asked the following prompts.
-`prompt: add testng file for the above project`
+To get the most out of ChatGPT, you may need to adjust the follow-up prompts to meet your specific needs. 
 
-`prompt: add a pom.xml file for the above project`
+For example, I needed to add a `testng.xml` and `pom.xml` file, so I asked ChatGPT to generate these files. 
 
-I then asked it to integrate Extent Report
+Then, I asked it to `integrate an Extent report into the project.`
 
-`prompt: integrate an Extent report in this project`
+You can customize the prompts to suit your needs, such as `update the project to read user credentials from a user.properties file`, `add code to rerun failed tests`, or `integrating with Azure to update Test Cases`. 
 
-Following are just some examples, but you get the point figure out what your needs are and what's missing and cater the prompts accordingly.
+There may be some hiccups along the way, such as when ChatGPT had trouble generating the AzureTestCaseUpdater class. In these cases, you can ask for it to `print complete class without explanations`.
 
-`update this project to take user credentials from user.properties`
+What I loved about using ChatGPT was that I was able to generate a beautiful readme.md file that included all the features of my project with a simple prompt.
 
-`update the project to rerun the failed tests`
-
-`Update this project to integrate with Azure Test Case updates`
-
-It had a hickup while generating the response for the azure so I had to ask it to complete again `prompt: print the complete AzureTestCaseUpdater  class without explanation`
-
-What I loved is once I had everything I needed, I asked it to `generate a readme.md file for the above project`, it beautifully created the file with all the features.
+`generate a readme.md` and since it had the context of all the previous prompts and responses it did it nicely!
