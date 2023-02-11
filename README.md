@@ -1,24 +1,23 @@
 # Amazing ChatGPT Prompts 
 ### Test Automation Framework
 
-ChatGPT can help you create the desired test automation framework using the language and technology stack of your choice. I used the following prompt to generate a basic framework and then integrated other tools as needed:
+With ChatGPT's assistance, you can build the test automation framework of your choice, utilizing the preferred language and technology stack. I utilized the following prompt to construct a basic framework, then added additional tools as required.
 
-Prompt: `Create a boilerplate Selenium WebDriver 4 testing framework using TestNG, Java, and Maven that can handle parallel execution and generate an Extent report. Add API testing with Rest Assured and include an example test for both UI and API.`
+prompt: `Create a boilerplate Selenium WebDriver 4 testing framework using TestNG, Java, and Maven that can handle parallel execution and generate an Extent report. Add API testing with Rest Assured and include an example test for both UI and API.`
 
-To get the most out of ChatGPT, you may need to adjust the follow-up prompts to meet your specific needs. 
+For optimal results with ChatGPT, you may have to tailor the subsequent prompts to fit your specific requirements. For instance, I needed to include `testng.xml` and `pom.xml` files, so I requested ChatGPT to create them.
 
-For example, I needed to add a `testng.xml` and `pom.xml` file, so I asked ChatGPT to generate these files. 
+Next, I asked ChatGPT to integrate an Extent report into the project.
 
-Then, I asked it to `integrate an Extent report into the project.`
+You can tailor the prompts to meet your specific requirements, such as updating the project to retrieve user credentials from a `user.properties` file, incorporating code to re-run failed tests, or integrating with Azure to update test case results.
 
-You can customize the prompts to suit your needs, such as `update the project to read user credentials from a user.properties file`, `add code to rerun failed tests`, or `integrating with Azure to update Test Cases`. 
+Occasionally, there may be challenges, such as when ChatGPT encountered difficulties generating the AzureTestCaseUpdater class. In such instances, you can request it to `print the complete class without any explanations.`
 
-There may be some hiccups along the way, such as when ChatGPT had trouble generating the AzureTestCaseUpdater class. In these cases, you can ask for it to `print complete class without explanations`.
+One of the aspects I appreciated about using ChatGPT was its ability to create a comprehensive readme.md file that showcased all the features of my project, with just a simple prompt.
 
-What I loved about using ChatGPT was that I was able to generate a beautiful readme.md file that included all the features of my project with a simple prompt.
+`generate a readme.md` Thanks to the context of all previous prompts and responses, ChatGPT was able to produce a great result!
 
-`generate a readme.md` and since it had the context of all the previous prompts and responses it did it nicely!
-
+--------------------------
 ### Health Coach
 
 ChatGPT can `act as a health coach` or assume any other role you would like it to play.
@@ -39,12 +38,14 @@ prompt: `Is paneer high in cholesterol`
 
 You can find some answers to these questions by using a search engine like Google. However, what's unique here is the context that ChatGPT has and the perspective of a health coach that it can provide.
 
+--------------------------
 ### Spanish Tutor
 
 prompt: `could you please help me practice a basic conversation in Spanish where we talk to each other? Imagine we just met. You will start the conversation off and wait for me to respond. Please translate each response to English`
 
 ![image](https://user-images.githubusercontent.com/8144683/218274659-e2d1a28b-4ad2-41ca-a3f4-868f17b2b6c4.png)
 
+--------------------------
 ### 4th Grade Math Tutor
 
 prompt: `generate an assessment to test math skills for a 4th grader by asking a set of questions`
@@ -57,6 +58,7 @@ prompt: `Ask questions that are hard for a 4th grader`
 
 You can continue the conversation by asking for more assessments, practice tests, etc.
 
+--------------------------
 ### 7th Grade English Tutor
 
 prompt: `Give me a list of 5 spellings to increase vocabulary for a 7th grader`
@@ -75,6 +77,7 @@ prompt: `here is the written passage from the Kid. As a 7th grade English teache
 
 Now that is amazing!
 
+--------------------------
 ### Personal Diary
 
 prompt: `Act as a Personal Diary`
