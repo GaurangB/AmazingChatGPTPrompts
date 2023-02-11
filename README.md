@@ -43,19 +43,7 @@ You can find some answers to these questions by using a search engine like Googl
 
 prompt: `could you please help me practice a basic conversation in Spanish where we talk to each other? Imagine we just met. You will start the conversation off and wait for me to respond. Please translate each response to English`
 
-response: _Sure! Let's start._
-
-_Me: Hola, ¿cómo estás? (Hello, how are you?)_
-
-_You: Estoy bien, ¿y tú? (I'm good, and you?)_
-
-_Me: Estoy bien también, gracias. ¿De dónde eres? (I'm also good, thank you. Where are you from?)_
-
-_You: Soy de los Estados Unidos. ¿Y tú? (I'm from the United States. And you?)_
-
-_Me: Soy de España. ¿Qué te gusta hacer en tu tiempo libre? (I'm from Spain. What do you like to do in your free time?)_
-
-_And so on! Let the conversation flow naturally from here._
+![image](https://user-images.githubusercontent.com/8144683/218274659-e2d1a28b-4ad2-41ca-a3f4-868f17b2b6c4.png)
 
 ### 4th Grade Math Tutor
 
@@ -69,7 +57,7 @@ prompt: `Ask questions that are hard for a 4th grader`
 
 You can continue the conversation by asking for more assessments, practice tests, etc.
 
-### English Tutor
+### 7th Grade English Tutor
 
 prompt: `Give me a list of 5 spellings to increase vocabulary for a 7th grader`
 
@@ -103,13 +91,8 @@ prompt:`Give a couple of examples of a personal diary formats in a table format`
 
 ![image](https://user-images.githubusercontent.com/8144683/218273294-a43a1709-ed61-4b41-a808-44917f363e6e.png)
 
-### Here are some of the topics of my conversations. 
-_You can tap into your creativity and use the AI platform in innovative, intelligent ways to maximize its potential_
+#### _You can tap into your creativity and use the AI platform in innovative, intelligent ways to maximize its potential_
 
-![image](https://user-images.githubusercontent.com/8144683/218273509-e18e3ac6-ddc1-4f29-85bc-999a44f39c07.png)
 
-![image](https://user-images.githubusercontent.com/8144683/218273677-bafbd2f6-742c-4adf-bd99-5248f03a0393.png)
-
-![image](https://user-images.githubusercontent.com/8144683/218273908-b1d869e7-9adc-4e55-a58d-5a95a1b3b163.png)
 
 
