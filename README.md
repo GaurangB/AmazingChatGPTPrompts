@@ -1,4 +1,12 @@
 # Amazing ChatGPT Prompts 
+- [Test Automation Framework](#test-automation-framework)
+- [Health Coach](#health-coach)
+- [Spanish Tutor](#spanish-tutor)
+- [4th Grade Math Tutor](#4th-grade-math-tutor)
+- [7th Grade English Tutor](#7th-grade-english-tutor)
+- [Personal Diary](#personal-diary)
+
+
 ### Test Automation Framework
 
 With ChatGPT's assistance, you can build the test automation framework of your choice, utilizing the preferred language and technology stack. I utilized the following prompt to construct a basic framework, then added additional tools as required.
